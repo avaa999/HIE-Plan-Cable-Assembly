@@ -4,7 +4,7 @@
 💡 We are working on hierarchical and interaction-aware embodied planning (HIE-Plan) for long-horizon, contact-rich robotic cable assembly. The paper has been submitted to _IEEE/ASME Transactions on Mechatronics_, and the code will be released upon acceptance.
 
 
-## 🎥 __The vedio of extensive robotic experiments could be found at [here](https://youtu.be/UIX6jxIGCQo)🔗:__
+## 🎥 __The vedio of extensive robotic experiments could be found at [here](https://youtu.be/2U9mWk9p7VY)🔗:__
 
 [![Watch the video](./cover.png)](https://youtu.be/2U9mWk9p7VY)
 ## Paper abstract
